@@ -28,4 +28,7 @@ Hay dos maneras sencillas de ejecutar el proyecto:
       java -jar nombre_del_archivo.jar
       ~~~
 
+### Informacion de interes:
+___
+Esta aplicación ha sido hecha con la libreria swing de java, en la java version 21
    
