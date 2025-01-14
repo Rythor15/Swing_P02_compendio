@@ -30,5 +30,9 @@ Hay dos maneras sencillas de ejecutar el proyecto:
 
 ### Informacion de interes:
 ___
-Esta aplicación ha sido hecha con la libreria swing de java, en la java version 21
+Esta aplicación ha sido hecha con la libreria swing de java, en la **versión 21**
+
+> **Autor:** Rubén Fernández Contreras
+> **Lincencia:** IES Al-Ándalus
+> [GitHub](https://github.com/Rythor15"Mi página de GitHub")
    
